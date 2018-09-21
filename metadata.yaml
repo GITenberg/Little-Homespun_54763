@@ -1,10 +1,13 @@
 _repo: Little-Homespun_54763
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Humphrey, Mabel
     gutenberg_agent_id: '25057'
     url: http://www.gutenberg.org/2009/agents/25057
+covers:
+- cover_type: archival
+  image_path: 54763-h/images/cover.jpg
 creator:
   author:
     agent_name: Ogden, Ruth
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '716'
     url: http://www.gutenberg.org/2009/agents/716
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54763#Little-Homespun
 gutenberg_issued: '2017-05-23'
 gutenberg_type: Text
 identifiers:
